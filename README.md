@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Sergio Ruiz</h1>
+<h1 align="center">Sergio Ruiz</h1>
 <h3 align="left">Redes:</h3>
 <p align="left">
 <a href="https://instagram.com/sergio_ruiz22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sergio_ruiz22" height="30" width="40" /></a>
