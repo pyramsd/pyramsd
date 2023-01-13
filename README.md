@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Sergio</h1>
-**<h3 align="center">Backend</h3>**
+**--<h3 align="center">Backend</h3>--**
 
 <h3 align="left">Redes:</h3>
 <p align="left">
