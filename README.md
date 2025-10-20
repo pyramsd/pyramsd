@@ -2,7 +2,7 @@
 
 <h3 align="left">Redes:</h3>
 <p align="left">
-<a href="https://instagram.com/sergio_ruiz22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sergio_ruiz22" height="30" width="40" /></a>
+<a href="https://instagram.com/_sergio_ruiz_21_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sergio_ruiz22" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajez y herramientas:</h3>
