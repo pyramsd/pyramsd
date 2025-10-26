@@ -9,7 +9,7 @@
 ---
 
 ## Proyectos destacados
-- [Documentación: Comandos Linux](https://github.com/pyramsd/linux-commands-docs) — Documentación de los comandos de linux más utilizados con el objetivo de proporcionar una referencia rápida para los nuevos usuarios de Linux.
+- [Documentación: Comandos Linux](https://github.com/pyramsd/Pagina-de-documentacion-comandos-linux) — Documentación de los comandos de linux más utilizados con el objetivo de proporcionar una referencia rápida para los nuevos usuarios de Linux.
 - [cis-audit](https://github.com/pyramsd/cis-audit) — Conjunto de scripts para auditar y reforzar la seguridad de un sistema Ubuntu Server, basándose en los benchmarks de CIS (Center for Internet Security).
 
 <h3 align="left">Lenguajez y herramientas:</h3>
