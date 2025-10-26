@@ -6,7 +6,7 @@
 
 ## Lenguajes y herramientas:
 ![GNU Bash](https://img.shields.io/badge/GNU_BASH-FFFFFF?style=for-the-badge&logo=gnu-bash&logoColor=black)
-![Python](https://img.shields.io/badge/Python-28A745?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
